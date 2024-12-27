@@ -1,0 +1,3 @@
+/mnt/c/A-Files/baruch/Courseworks/MTH 9815 Software Engineering/mth9815-master/tradingsystem/CMakeFiles/tradingsystem.dir
+/mnt/c/A-Files/baruch/Courseworks/MTH 9815 Software Engineering/mth9815-master/tradingsystem/CMakeFiles/edit_cache.dir
+/mnt/c/A-Files/baruch/Courseworks/MTH 9815 Software Engineering/mth9815-master/tradingsystem/CMakeFiles/rebuild_cache.dir
